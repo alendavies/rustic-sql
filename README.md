@@ -12,7 +12,7 @@ The program handles the following SQL commands:
 - INSERT
 - UPDATE
 - DELETE
-- SELECT}
+- SELECT
 
 For SELECT queries, this project supports:
 
